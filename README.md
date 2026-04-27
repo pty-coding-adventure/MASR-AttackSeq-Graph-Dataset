@@ -1,4 +1,4 @@
-## MASR AttackSeq-Graph Dataset (V0 legacy, v0.2)
+## MASR AttackSeq-Graph Dataset v0.2 release (V0, ungated baseline)
 This repository releases an open-source dataset of annotated multimodal jailbreak attack sequences with graph representations.
 
 ## Dataset versions and thesis usage
